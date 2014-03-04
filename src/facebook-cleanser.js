@@ -37,6 +37,9 @@ var to_hide = {
     // Hide events
     '#event_reminders_link': true,
 
+    // Hide application requests
+    '#custom_reminders_link': true,
+
     // Hide copyright footer
     '#pagelet_rhc_footer': true,
 
